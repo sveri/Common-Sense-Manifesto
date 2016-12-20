@@ -8,5 +8,5 @@ Applying the Common Sense Manifesto is easy, follow these steps:
 4. Listen again. Use empathy again.
 5. Ask question.
 6. Repeat steps 1 to 5 until you understand.
-7. Apply common sense.
+7. Apply Common Sense.
 8. If no solution is found return to 1.
